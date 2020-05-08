@@ -8,7 +8,7 @@ yarn-error.log*
 # Storybook
 storybook-static
 build
-dist
+# dist
 
 # Runtime data
 pids
